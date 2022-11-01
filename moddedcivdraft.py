@@ -1,4 +1,3 @@
-from multiprocessing.reduction import duplicate
 import random
 #randomizes a number to represent each civ
 def randomciv():
